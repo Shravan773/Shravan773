@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Machine learning**
 
-- 💬 Ask me about **C++, MERN**
+- 💬 Ask me about **C++,python, MERN**
 
 - 📫 How to reach me **shravankumarr327@gmail.com**
 
