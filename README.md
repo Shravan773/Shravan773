@@ -1,13 +1,13 @@
 
 <h1 align="center">Hi 👋, I'm Shravan kumar</h1>
-<h3 align="center">A passionate Problem-solver, full-stack developer from India</h3>
+<h3 align="center">A passionate Problem-solver, front-end developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🔭 I’m currently working on **Open source projects**
 
 - 🌱 I’m currently learning **Machine learning**
 
-- 💬 Ask me about **C++,python, MERN**
+- 💬 Ask me about **C++,python, Javascript,reactjs**
 
 - 📫 How to reach me **shravankumarr327@gmail.com**
 
